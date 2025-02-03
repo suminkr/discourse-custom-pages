@@ -1,0 +1,14 @@
+plugins:
+  static_pages:
+    static_pages_enabled:
+      default: true
+      client: true
+      hidden: false
+    static_pages_about_title:
+      default: "About Us"
+      client: true
+      hidden: false
+    static_pages_about_content:
+      default: "<h1>About Us</h1><p>Discourse 사이트의 정적 페이지 예제입니다.</p>"
+      client: true
+      hidden: false
